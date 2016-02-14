@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Deeplean
+tagline:             '“If things are not failing, you are not innovating enough.” –Elon Musk'
+description:         'Deeplean blog'
+url:                 http://deeplean.com
+baseurl:             'blog'
+paginate:            5
+
+# About/contact
+author:
+  name:              Deeplean
+  url:               https://twitter.com/deeplean
+  email:             contact@deeplean.com
+
+# Custom vars
+version:             0.1
