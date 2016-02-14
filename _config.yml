@@ -3,7 +3,7 @@ title:               Deeplean
 tagline:             '“If things are not failing, you are not innovating enough.” –Elon Musk'
 description:         'Deeplean blog'
 url:                 http://deeplean.com
-baseurl:             'blog'
+baseurl:             ''
 paginate:            5
 
 # About/contact
